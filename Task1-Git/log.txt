@@ -1,0 +1,40 @@
+commit 6b8a8725f6c4a2cf43233a738068e6c128ee7dd0 (HEAD -> main)
+Merge: 2ea56ef 6768c24
+Author: Akhmadjon Rajabov <r_ahmadjon@mail.ru>
+Date:   Mon Feb 21 00:24:39 2022 +0500
+
+    Merge branch 'main' of github.com:RajabovAhmadjon/Exadel_Internship
+
+commit 6768c24e5a058cb88429c48fcd765adad3ffd4f9 (origin/main)
+Merge: 94ac3eb c436fb5
+Author: RajabovAhmadjon <35695668+RajabovAhmadjon@users.noreply.github.com>
+Date:   Mon Feb 21 00:21:45 2022 +0500
+
+    Merge pull request #1 from RajabovAhmadjon/dev
+
+    dev branch, new test file
+
+commit 2ea56ef101ec4d7cceaf55943758d879b8951d96
+Merge: 94ac3eb c436fb5
+Author: Akhmadjon Rajabov <r_ahmadjon@mail.ru>
+Date:   Mon Feb 21 00:18:45 2022 +0500
+
+    Merge branch 'dev'
+
+commit 94ac3eb9c33c89cab654c9dac827eb671197178d
+Author: RajabovAhmadjon <35695668+RajabovAhmadjon@users.noreply.github.com>
+Date:   Mon Feb 21 00:11:57 2022 +0500
+
+    Delete README.md.bak
+
+commit c436fb577a642328a921991f1de47250229d9e5b (origin/dev, dev)
+Author: Akhmadjon Rajabov <r_ahmadjon@mail.ru>
+Date:   Sun Feb 20 23:58:08 2022 +0500
+
+    dev branch, new test file
+
+commit ffed8c5255f51c41273b552f2d4827d7d62d623c
+Author: Akhmadjon Rajabov <r_ahmadjon@mail.ru>
+Date:   Sun Feb 20 23:53:19 2022 +0500
+
+    folder Task1 and README.md file
