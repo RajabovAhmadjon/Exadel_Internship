@@ -27,7 +27,7 @@ EXTRA:
 7.	Step 3 read as: 
 EC2 CentOS should have outgoing and incoming access: ICMP, TCP/22, TCP/80, TCP/443, only to EC2 Ubuntu. 
 8.	On EC2 CentOS install nginx (note. Remember about step 7, the task can be done in any way, it is not necessary to use terraform)
-- Create a web page with the text “Hello World”. This page must be visible from the  EC2 Ubuntu.
+- Create a web page with the text “Hello World”. This page must be visible from the  EC2 Ubuntu. (Use SSH)
 
 The result of steps.1-7. is a terraform files in your GitHub. +file with output terraform plan BEFORE creating infrastructure.
 The result of step EXTRA 8, is or scripts (if you have one), or an explanation of how this can be implemented.
