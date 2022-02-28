@@ -34,3 +34,6 @@ The result of step EXTRA 8, is or scripts (if you have one), or an explanation o
 
 Notes:
 Save terraform plan to file: terraform plan -out config.terraform
+
+Result:
+http://54.153.91.58/ or http://ec2-54-153-91-58.us-west-1.compute.amazonaws.com/
