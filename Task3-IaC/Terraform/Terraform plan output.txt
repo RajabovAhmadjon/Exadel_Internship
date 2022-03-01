@@ -252,7 +252,7 @@ Terraform will perform the following actions:
       + key_name        = "my_key"
       + key_name_prefix = (known after apply)
       + key_pair_id     = (known after apply)
-      + public_key      = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDBJrtHn4x/7EyMEKj4xWkYUqARytCYGe9pG3i7+YxHgnMuvgGN+yHrIK4u0TljLF8KGE+ACTnn6RYmhCQdVfq9cdZ2BIvjbC2ZPBOOlNa5fl6mYMiIa8ZeQmiRHxkORfKUCNz12uAtJ/W8CKO/aa+Aq3rZ8dJQY0TV2ZmmmrF4Cb5KBDPu1I18ukT5UQ7T8Ypf1OjEJgO0fgn/3a3R3zEIXZW81R74SLUp6U1xxFeO7ejNjfmGnCSrqTf/9Z9+2yzXA1pKQs+cxexZRPoUh2ZqIDiOhicNW9u65TC0EMymVQBitKOwcXWWTBp3paF0Q/SAJHAu5PV3q2QJBJNA0poVSUpi8NJoI/DB014qzS2k0QnnJ3al14PRXl5eKUP102r/PwImfuMp+MyTba5NAsXt2XiPCMRIIzggdsS3pbvqn2OxoCR4FCYr648L3m3l735syOSH2HogplCDf9OwMfelUb+oJho5uJetK42e7RmOWSggZ/RysFBnxVgIEiqYIDjWesuDgctKYokJ8QAVFzXgSlzgX3v9fCWzmOpTdM2NMM+BQQ5IStloZbh/kDBRy+lLZlTolF32ZwdmZgEE60n7awKmE8d3mP3YlxmdSvItzCkoOW1WncOjPVQqS/dvkwE7BWFShnOy5S0cAq/llfpzt9vW/cfAdKRsznwJpLJfCQ=="
+      + public_key      = "There was a key"
       + tags_all        = (known after apply)
     }
 
